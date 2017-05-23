@@ -1,0 +1,17 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kate Caldwell",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "markov": "0.0.7",
+    "nodemon": "^1.11.0",
+    "twitter": "^1.7.0"
+  }
+}
